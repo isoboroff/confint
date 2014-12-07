@@ -1,0 +1,31 @@
+# The NTCIR-7 ACLIA IR4QA Chinese topic-by-run matrices (97 topics x 40 runs)
+
+http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings7/pdf/NTCIR7/C1/IR4QA/01-NTCIR7-OV-IR4QA-SakaiT.pdf
+http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings7/pdf/NTCIR7/C1/IR4QA/14-NTCIR7-OV-IR4QA-SakaiT-20090626.pdf (depth-100 qrels mentioned in this paper are used here)
+
+Gain values: 1,3 for L1,L2-relevant (exponential)
+(though official results used the linear setting 1,2)
+
+Document cutoff: 1000
+
+AP	AP computed using NTCIREVAL
+Q	Q computed using NTCIREVAL
+MSnDCG	nDCG (Burges et al Microsoft version) computed using NTCIREVAL
+nERR	nERR computed using NTCIREVAL
+
+
+# The NTCIR-10 INTENT Chinese Document Ranking (diversity) topic-by-run matrices (100 topics x 24 runs)
+
+http://research.nii.ac.jp/ntcir/workshop/OnlineProceedings9/NTCIR/01-NTCIR9-OV-INTENT-SongR.pdf
+
+Per-intent gain values: 1,3,7,15 for L1,L2,L3,L4-relevant (exponential)
+(though official results used the linear setting 1,2,3,4)
+
+Document cutoff: 10
+
+D-nDCG		 D-nDCG computed using NTCIREVAL
+D#-nDCG		 D#-nDCG (average of D-nDCG and intent/subtopic recall) computed using NTCIREVAL
+alpha-nDCG 	 alpha-nDCG computed using ndeval*
+nERR-IA		 nERR-IA computed using ndeval*
+
+*ndeval ignores per-intent graded relevance and intent probabilities.

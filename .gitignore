@@ -1,0 +1,9 @@
+__pycache__/
+.Rproj.user
+*~
+.DS_Store
+bin/
+include/
+lib/
+share/
+._*

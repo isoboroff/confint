@@ -1,0 +1,10 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+2	:	1410369133.000	   750.000	0	0	0	0	../trec_eval_ci.py apl05p50.eval > apl05p50.ci
+8	:	1410369133.000	   752.000	0	0	0	0	../trec_eval_ci.py ASUDE.eval > ASUDE.ci
+5	:	1410369133.000	   755.000	0	0	0	0	../trec_eval_ci.py apl05pt.eval > apl05pt.ci
+4	:	1410369133.000	   755.000	0	0	0	0	../trec_eval_ci.py apl05prf.eval > apl05prf.ci
+7	:	1410369133.000	   758.000	0	0	0	0	../trec_eval_ci.py ASUBE.eval > ASUBE.ci
+3	:	1410369133.000	   758.000	0	0	0	0	../trec_eval_ci.py apl05pd.eval > apl05pd.ci
+6	:	1410369133.000	   763.000	0	0	0	0	../trec_eval_ci.py ASUBE3.eval > ASUBE3.ci
+1	:	1410369133.000	   763.000	0	0	0	0	../trec_eval_ci.py apl05cmb.eval > apl05cmb.ci
+9	:	1410369883.000	   390.000	0	0	1	0	../trec_eval_ci.py MEIJIr2.eval > MEIJIr2.ci

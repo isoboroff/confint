@@ -1,0 +1,25 @@
+Seq	Host	Starttime	JobRuntime	Send	Receive	Exitval	Signal	Command
+8	:	1410441959.017	   618.713	0	0	0	0	../ntcir10_eval_ci.py run17.eval > run17.ci
+4	:	1410441959.000	   620.494	0	0	0	0	../ntcir10_eval_ci.py run13.eval > run13.ci
+7	:	1410441959.014	   620.845	0	0	0	0	../ntcir10_eval_ci.py run16.eval > run16.ci
+5	:	1410441959.005	   623.086	0	0	0	0	../ntcir10_eval_ci.py run14.eval > run14.ci
+3	:	1410441958.995	   623.540	0	0	0	0	../ntcir10_eval_ci.py run12.eval > run12.ci
+2	:	1410441958.990	   625.569	0	0	0	0	../ntcir10_eval_ci.py run11.eval > run11.ci
+6	:	1410441959.008	   627.430	0	0	0	0	../ntcir10_eval_ci.py run15.eval > run15.ci
+1	:	1410441958.978	   630.719	0	0	0	0	../ntcir10_eval_ci.py run10.eval > run10.ci
+9	:	1410442577.734	   614.634	0	0	0	0	../ntcir10_eval_ci.py run18.eval > run18.ci
+11	:	1410442579.862	   616.559	0	0	0	0	../ntcir10_eval_ci.py run1.eval > run1.ci
+15	:	1410442586.442	   612.817	0	0	0	0	../ntcir10_eval_ci.py run23.eval > run23.ci
+10	:	1410442579.503	   620.137	0	0	0	0	../ntcir10_eval_ci.py run19.eval > run19.ci
+14	:	1410442584.563	   615.760	0	0	0	0	../ntcir10_eval_ci.py run22.eval > run22.ci
+13	:	1410442582.543	   618.839	0	0	0	0	../ntcir10_eval_ci.py run21.eval > run21.ci
+12	:	1410442582.095	   622.677	0	0	0	0	../ntcir10_eval_ci.py run20.eval > run20.ci
+16	:	1410442589.701	   616.148	0	0	0	0	../ntcir10_eval_ci.py run24.eval > run24.ci
+17	:	1410443192.386	   617.338	0	0	0	0	../ntcir10_eval_ci.py run2.eval > run2.ci
+18	:	1410443196.430	   619.175	0	0	0	0	../ntcir10_eval_ci.py run3.eval > run3.ci
+20	:	1410443199.644	   619.023	0	0	0	0	../ntcir10_eval_ci.py run5.eval > run5.ci
+19	:	1410443199.265	   619.806	0	0	0	0	../ntcir10_eval_ci.py run4.eval > run4.ci
+21	:	1410443200.328	   621.284	0	0	0	0	../ntcir10_eval_ci.py run6.eval > run6.ci
+22	:	1410443201.387	   622.062	0	0	0	0	../ntcir10_eval_ci.py run7.eval > run7.ci
+24	:	1410443205.859	   619.592	0	0	0	0	../ntcir10_eval_ci.py run9.eval > run9.ci
+23	:	1410443204.782	   625.062	0	0	0	0	../ntcir10_eval_ci.py run8.eval > run8.ci

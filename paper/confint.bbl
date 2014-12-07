@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{Cumming05}
+G. Cumming and S.~Finch.
+\newblock Inference by eye: confidence intervals, and how to read pictures of
+  data.
+\newblock {\em American Psychologist}, 60:532--574, 2005.
+
+\bibitem{Cumming12}
+G. Cumming.
+\newblock {\em Understanding the New Statistics: Effect Sizes, Confidence
+  Intervals, and Meta-Analysis}.
+\newblock Routledge, 2012.
+
+\bibitem{Efron93}
+B. Efron and R.~J. Tibshirani.
+\newblock {\em An Introduction to the Boostrap}.
+\newblock Chapman and Hall, 1993.
+
+\bibitem{Hull93}
+D. Hull.
+\newblock Using statistical testing in the evaluation of information retrieval
+  results.
+\newblock In {\em Proceedings of SIGIR 1993}, Pittsburgh, PA, 1993.
+
+\bibitem{Sakai14-forum}
+T. Sakai.
+\newblock Statistical reform in information retrieval?
+\newblock {\em SIGIR Forum}, 48(1):3--12, June 2014.
+
+\bibitem{Saville90}
+D.~J. Saville.
+\newblock Multiple comparison procedures: the practical solution.
+\newblock {\em The American Statistician}, 44:174--180, 1990.
+
+\bibitem{Schall12}
+R. Schall.
+\newblock The empirical coverage of confidence intervals: Point estimates and
+  confidence intervals for confidence levels.
+\newblock {\em Biometrical Journal}, 54(4):537--551, 2012.
+
+\end{thebibliography}

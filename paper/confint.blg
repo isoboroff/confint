@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_1)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: confint.aux
+The style file: plain.bst
+Database file #1: confint.bib
+You've used 7 entries,
+            2118 wiz_defined-function locations,
+            545 strings with 4903 characters,
+and the built_in function-call counts, 1918 in all, are:
+= -- 192
+> -- 61
+< -- 0
++ -- 27
+- -- 18
+* -- 117
+:= -- 331
+add.period$ -- 21
+call.type$ -- 7
+change.case$ -- 28
+chr.to.int$ -- 0
+cite$ -- 7
+duplicate$ -- 82
+empty$ -- 174
+format.name$ -- 18
+if$ -- 396
+int.to.chr$ -- 0
+int.to.str$ -- 7
+missing$ -- 9
+newline$ -- 38
+num.names$ -- 14
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 23
+quote$ -- 0
+skip$ -- 47
+stack$ -- 0
+substring$ -- 128
+swap$ -- 7
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 24
+warning$ -- 0
+while$ -- 22
+width$ -- 8
+write$ -- 77
